@@ -66,13 +66,12 @@ nav a:hover{
 
 #s1 {
     
-    margin: auto;
+    margin-bottom: 24px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-wrap: wrap;
-    height: 800px;
-    padding: 10px;
+    height: 97;
 }
 
 #s1 div{
@@ -107,7 +106,7 @@ nav a:hover{
 #s1 img{
     max-width: 500px;
     height: 389px;
-    border-radius: 100px;
+    border-radius: 250px;
     
 }
 
